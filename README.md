@@ -6,7 +6,6 @@
 
 Built with Rust + Tauri + React
 
-[![Build & Release](https://github.com/mehmetaltunel/MacCelaner/actions/workflows/build.yml/badge.svg)](https://github.com/mehmetaltunel/MacCelaner/actions/workflows/build.yml)
 [![Latest Release](https://img.shields.io/github/v/release/mehmetaltunel/mcCleaner-releases?label=version&color=22d3ee)](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Sponsor](https://img.shields.io/badge/Sponsor-♥-ea4aaa)](https://github.com/sponsors/mehmetaltunel)
@@ -23,12 +22,12 @@ Built with Rust + Tauri + React
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon M1/M2/M3/M4) | [mcCleaner_aarch64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest/download/mcCleaner_aarch64.dmg) |
-| macOS (Intel) | [mcCleaner_x64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest/download/mcCleaner_x64.dmg) |
-| Windows (x64 Installer) | [mcCleaner_x64-setup.exe](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest/download/mcCleaner_0.3.3_x64-setup.exe) |
-| Windows (x64 MSI) | [mcCleaner_x64.msi](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest/download/mcCleaner_0.3.3_x64_en-US.msi) |
+| macOS (Apple Silicon) | [mcCleaner_aarch64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.3/mcCleaner_0.3.3_aarch64.dmg) |
+| macOS (Intel) | [mcCleaner_x64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.3/mcCleaner_0.3.3_x64.dmg) |
+| Windows (Installer) | [mcCleaner_x64-setup.exe](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.3/mcCleaner_0.3.3_x64-setup.exe) |
+| Windows (MSI) | [mcCleaner_x64.msi](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.3/mcCleaner_0.3.3_x64_en-US.msi) |
 
-Or visit [mccleaner.com/download](https://mccleaner.com/download) for auto-detected downloads.
+Or visit [mccleaner.com/download](https://mccleaner.com/download)
 
 ---
 
