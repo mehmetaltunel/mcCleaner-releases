@@ -80,3 +80,19 @@ Tum yuklu uygulamalari boyut ve ikonlariyla listeler. Uygulamalardan kalan artik
 [MIT](LICENSE) — Mehmet Altunel 2026
 
 [mehmetaltunel.com](https://mehmetaltunel.com) | [xyzapps.net](https://xyzapps.net) | [GitHub](https://github.com/mehmetaltunel)
+
+---
+
+## Support
+
+If you find mcCleaner useful, consider sponsoring the project. Your support helps keep the project alive and actively maintained.
+
+[Sponsor on GitHub](https://github.com/sponsors/mehmetaltunel)
+
+---
+
+## Destek
+
+mcCleaner'i faydali buluyorsaniz projeye sponsor olmayi dusunebilirsiniz. Desteginiz projenin aktif gelistirilmeye devam etmesini saglar.
+
+[GitHub'da Sponsor Ol](https://github.com/sponsors/mehmetaltunel)
