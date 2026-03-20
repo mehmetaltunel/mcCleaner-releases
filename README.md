@@ -4,7 +4,7 @@
 
 **Cross-platform system cleaner and optimizer**
 
-Built with Rust + Tauri | macOS and Windows
+macOS and Windows
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Sponsor](https://img.shields.io/badge/Sponsor-mehmetaltunel-ea4aaa)](https://github.com/sponsors/mehmetaltunel)
