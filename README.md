@@ -19,9 +19,9 @@ Built with Rust + Tauri | macOS and Windows
 
 | Platform | Link |
 |----------|------|
-| macOS (Apple Silicon) | [mcCleaner_aarch64.dmg](https://github.com/mehmetaltunel/MacCelaner/releases/latest) |
-| macOS (Intel) | [mcCleaner_x64.dmg](https://github.com/mehmetaltunel/MacCelaner/releases/latest) |
-| Windows (x64) | [mcCleaner_x64-setup.exe](https://github.com/mehmetaltunel/MacCelaner/releases/latest) |
+| macOS (Apple Silicon) | [mcCleaner_aarch64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest) |
+| macOS (Intel) | [mcCleaner_x64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest) |
+| Windows (x64) | [mcCleaner_x64-setup.exe](https://github.com/mehmetaltunel/mcCleaner-releases/releases/latest) |
 
 ---
 
