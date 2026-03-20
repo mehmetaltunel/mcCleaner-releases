@@ -6,12 +6,26 @@
 
 Built with Rust + Tauri | macOS and Windows
 
-[![Build & Release](https://github.com/mehmetaltunel/MacCelaner/actions/workflows/build.yml/badge.svg)](https://github.com/mehmetaltunel/MacCelaner/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/Sponsor-mehmetaltunel-ea4aaa)](https://github.com/sponsors/mehmetaltunel)
 
 [Download](#download) | [English](#features) | [Turkce](#ozellikler)
 
 </div>
+
+---
+
+## Support
+
+If you find mcCleaner useful, consider sponsoring the project. Your support helps keep the project alive and actively maintained.
+
+[Sponsor on GitHub](https://github.com/sponsors/mehmetaltunel)
+
+## Destek
+
+mcCleaner'i faydali buluyorsaniz projeye sponsor olmayi dusunebilirsiniz. Desteginiz projenin aktif gelistirilmeye devam etmesini saglar.
+
+[GitHub'da Sponsor Ol](https://github.com/sponsors/mehmetaltunel)
 
 ---
 
@@ -46,7 +60,7 @@ Real-time monitoring dashboard showing CPU usage, RAM, disk space, battery statu
 Visual disk usage overview with a large file finder. Streams results in real-time and supports scan cancellation.
 
 ### App Manager
-Lists all installed applications with their sizes and icons. Scans for residual files (preferences, caches, support files) left behind by apps. Supports complete uninstallation — moves the app and all its residuals to Trash.
+Lists all installed applications with their sizes and icons. Scans for residual files left behind by apps. Supports complete uninstallation — moves the app and all its residuals to Trash.
 
 ---
 
@@ -71,7 +85,7 @@ CPU kullanimi, RAM, disk alani, batarya durumu, CPU/GPU sicakliklari, ag trafigi
 Buyuk dosya bulucu ile gorsel disk kullanim analizi. Sonuclari gercek zamanli olarak aktarir ve taramayi iptal etmeyi destekler.
 
 ### Uygulama Yoneticisi
-Tum yuklu uygulamalari boyut ve ikonlariyla listeler. Uygulamalardan kalan artik dosyalari (tercihler, onbellek, destek dosyalari) tarar. Tam kaldirma destegi — uygulamayi ve tum artik dosyalarini Cop Kutusuna tasir.
+Tum yuklu uygulamalari boyut ve ikonlariyla listeler. Uygulamalardan kalan artik dosyalari tarar. Tam kaldirma destegi — uygulamayi ve tum artik dosyalarini Cop Kutusuna tasir.
 
 ---
 
@@ -80,19 +94,3 @@ Tum yuklu uygulamalari boyut ve ikonlariyla listeler. Uygulamalardan kalan artik
 [MIT](LICENSE) — Mehmet Altunel 2026
 
 [mehmetaltunel.com](https://mehmetaltunel.com) | [xyzapps.net](https://xyzapps.net) | [GitHub](https://github.com/mehmetaltunel)
-
----
-
-## Support
-
-If you find mcCleaner useful, consider sponsoring the project. Your support helps keep the project alive and actively maintained.
-
-[Sponsor on GitHub](https://github.com/sponsors/mehmetaltunel)
-
----
-
-## Destek
-
-mcCleaner'i faydali buluyorsaniz projeye sponsor olmayi dusunebilirsiniz. Desteginiz projenin aktif gelistirilmeye devam etmesini saglar.
-
-[GitHub'da Sponsor Ol](https://github.com/sponsors/mehmetaltunel)
