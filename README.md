@@ -22,10 +22,10 @@ Built with Rust + Tauri + React
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [mcCleaner_aarch64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.5/mcCleaner_0.3.5_aarch64.dmg) |
-| macOS (Intel) | [mcCleaner_x64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.5/mcCleaner_0.3.5_x64.dmg) |
-| Windows (Installer) | [mcCleaner_x64-setup.exe](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.5/mcCleaner_0.3.5_x64-setup.exe) |
-| Windows (MSI) | [mcCleaner_x64.msi](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.5/mcCleaner_0.3.5_x64_en-US.msi) |
+| macOS (Apple Silicon) | [mcCleaner_aarch64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.6/mcCleaner_0.3.6_aarch64.dmg) |
+| macOS (Intel) | [mcCleaner_x64.dmg](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.6/mcCleaner_0.3.6_x64.dmg) |
+| Windows (Installer) | [mcCleaner_x64-setup.exe](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.6/mcCleaner_0.3.6_x64-setup.exe) |
+| Windows (MSI) | [mcCleaner_x64.msi](https://github.com/mehmetaltunel/mcCleaner-releases/releases/download/v0.3.6/mcCleaner_0.3.6_x64_en-US.msi) |
 
 Or visit [mccleaner.com/download](https://mccleaner.com/download)
 
